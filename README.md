@@ -1,2 +1,2 @@
-# osnovi_python
+basics_python
 Основы языка Python
